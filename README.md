@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihanmadhusanka95&label=Profile%20views&color=0e75b6&style=flat" alt="gihanmadhusanka95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gihanmadhusanka95" alt="gihanmadhusanka95" /></a> </p>
-
 - 🌱 I’m currently learning **Software Quality Assurance**
 
 - 💬 Ask me about **SDLC, Manual Testing, Agile Methodologies, Automation Testing, MERN, Cloud Computing, DevOps**
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihanmadhusanka95&show_icons=true&locale=en&layout=compact" alt="gihanmadhusanka95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihanmadhusanka95&show_icons=true&locale=en" alt="gihanmadhusanka95" /></p>
-
